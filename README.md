@@ -1,3 +1,3 @@
 # Train Scheduler
 
-![train scheduler](trainscheduler.png.png)
+![train scheduler](trainscheduler.png)
